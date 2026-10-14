@@ -10,7 +10,7 @@ Ines Lebard, Charlotte Le Bihan, Camille Tanguy, Oceane Tanios
    pip install pandas numpy matplotlib scipy openpyxl jupyter
    ```
 
-2. Get the data: download the plant-level Global Iron and Steel Tracker from Global Energy Monitor (globalenergymonitor.org, free after a short form). We used the **September 2026 (V1)** release.
+2. Get the data: download the plant-level Global Iron and Steel Tracker from Global Energy Monitor (globalenergymonitor.org, free after a short form). We used the September 2026 (V1) release because we didn't find the 2025 version.
 
 3. Put the file here, next to the notebook:
 
